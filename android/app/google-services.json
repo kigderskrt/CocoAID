@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "409521996344",
+    "project_id": "log-in-jtkrwe",
+    "storage_bucket": "log-in-jtkrwe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409521996344:android:d5e8f271d23cb8d89d5ccd",
+        "android_client_info": {
+          "package_name": "com.flutterflow.homeU"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409521996344-53mnqgmroukjp80qn0s44q6svrknoti7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv7cjg_dYIlDdLwXvaGahiPE7Bp2VJSLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409521996344-53mnqgmroukjp80qn0s44q6svrknoti7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "409521996344-9hvhftc29nu6gsjd4ahllq01kgo9gj0h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.homeU"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
