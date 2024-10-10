@@ -5,7 +5,7 @@ CocoAID is a cutting-edge agricultural technology platform designed to support c
 
 Beyond diagnostics, CocoAID simplifies the process of monitoring farm health and reporting issues to local agricultural experts. With its user-friendly interface, farmers can easily detect disease and other crop-related challenges. The platform also enables seamless communication with agricultural professionals for support and advice, empowering coconut farmers to boost productivity and secure their livelihood in an ever-changing agricultural landscape.
 
-**Developer Logs****
+##Developer Logs
 
 **1.0.11 - 10-09-2024**
       Disclaimer page added
