@@ -8,7 +8,7 @@ Beyond diagnostics, CocoAID simplifies the process of monitoring farm health and
 ## Developer Logs
 
 # 1.0.11 - 10-09-2024
-      Disclaimer page added
+      -Disclaimer page added
       Animated icons implemented
       UX issues fixed
       Terms and conditions page updated
