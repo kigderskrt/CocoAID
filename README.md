@@ -9,6 +9,11 @@ Beyond diagnostics, CocoAID simplifies the process of monitoring farm health and
 ## Developer Logs
 
 ## 1.0.12 - 10-10-2024 ==> 10-11-2024
+      Search location Added
+      Places API added
+      Search Place Functionality Added
+      Github Project Update
+      Updaed ReadME.md file for better documentation
       Map Search Issue Occured
       Researched To fixed this issue
       Map Search Function Resolve
