@@ -8,8 +8,18 @@ Beyond diagnostics, CocoAID simplifies the process of monitoring farm health and
 
 ## Developer Logs
 
+## 1.0.12 - 10-10-2024 ==> 10-11-2024
+      Map Search Issue Occured
+      Researched To fixed this issue
+      Map Search Function Resolve
+      Current Device Location Updated
+      Place Picker Functionality Added
+      Customized Place Marker
+      Researched Roboflow
+      Research Intance Segmentation
+      
 ## 1.0.11 - 10-09-2024
-      -Disclaimer page added
+      Disclaimer page added
       Animated icons implemented
       UX issues fixed
       Terms and conditions page updated
