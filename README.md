@@ -1,4 +1,4 @@
-![image alt](CocoAID Banner.png)
+![image alt]([CocoAID Banner.png](https://github.com/kigderskrt/CocoAID/blob/main/CocoAID-Banner.png))
 # CocoAID
 
 
