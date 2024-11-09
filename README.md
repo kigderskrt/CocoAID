@@ -7,7 +7,74 @@ CocoAID is a cutting-edge agricultural technology platform designed to support c
 Beyond diagnostics, CocoAID simplifies the process of monitoring farm health and reporting issues to local agricultural experts. With its user-friendly interface, farmers can easily detect disease and other crop-related challenges. The platform also enables seamless communication with agricultural professionals for support and advice, empowering coconut farmers to boost productivity and secure their livelihood in an ever-changing agricultural landscape.
 
 ## Developer Logs
-
+## 1.0.20 - 11-5-2024
+      Resolved Errors and Iteration Update v1.0.0
+      - editprofilePage: Fixed overlapping text when the keyboard appears.
+      - homePage: Resolved overlapping containers.
+      - Responsive Issue: Addressed display problems on tablets.
+      - Time Format: Changed to a readable format.
+      - reportPage: Corrected text color visibility issues in dark mode.
+      - Coordinates and Address Fields: Changed text fields to containers for non-editable data.
+      - termsandconditionPage: Fixed padding and responsiveness issues.
+      - reportPage Upload Photo: Resolved continuous API call issue and looping "upload failed" component.
+      - Upload Components: Removed confusing upload components.
+      - diagnosePage: Refined UI to improve user experience.
+      - mapviewPage: Corrected overlapping search button.
+      - reportlistviewPage: Changed to grid view for better visibility.
+      - diseasePage: Fixed overlapping text and container issues.
+      - editprofilePage Redirect: Ensured correct redirection after logging out and logging in.
+      - reportdetailsPage: Improved format for better user readability, changed number formats.
+## 1.0.19 - 11-4-2024
+      - Successfully deployed CocoAID for alpha testing.
+      - Testing involves a closed group recruited via an announcement on our Facebook page.
+      - Participants include 8 Computer Engineering students (3rd-year, 4th-year, and graduates).
+      - Primary objectives of alpha testing:
+        - Verify core functionalities of the application.
+        - Identify and address UI/UX errors.
+      - Collecting valuable feedback and suggestions from testers.
+## 1.0.18 - 11-2-2024
+      - Updated MapView UI (v2)
+      - Updated ReportPage UI (v2)
+      - Updated ReportListView UI (v2)
+      - Data reports fetched successfully from Firestore
+      - Sorted reports by "All," "Nearby," and "User"
+      - Added page animations
+      - Enhanced AI model
+      - Updated AI model results UI
+## 1.0.17 - 10-28-2024
+      - Enhanced homepage UI & UX v2
+      - Developed Diagnose button components
+      - Integrated model API calls in Diagnose page
+      - Enhanced disease page design
+      - Optimized API images for streamlined app
+## 1.0.16 - 10-28-2024
+      - Updated mapviewPage
+      - Updated reportPage
+      - Updated reportlistPage
+      - Updated Reports Document 
+## 1.0.15 - 10-25-2024
+      Created custom action for device checking actions
+      - checkInternetConnection added
+      - filterNearestMarkers
+      - getImageHash
+      - isLocationServiceEnabled
+      - openLocationSettings
+      - openWIFISettings
+      - pdfInvoiceDownload
+      - restartApp
+## 1.0.14 - 10-19-2024
+      - Integrated API call for Roboflow CNN model.
+      - Developed a custom function for fetching images from Firebase and sending them to the Roboflow API for image classification.
+      - App value updates:
+        - `ifDevLocisOn` added.
+        - `reportCounter` added.
+        - `apiHasResponse` added.
+        - `currentMapCenter` added.
+        - `searchActive` added.
+        - `snapOn` added.
+        - `confResponse` added.
+        - `ifRead` added.
+      - API call feature successfully tested (used an alternative model to verify API functionality; once our model is finalized, only the API key needs to be updated).
 ## 1.0.13 - 10-12-2024
       Reports Firestore Database Created
       Created locationsreports field
